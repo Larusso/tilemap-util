@@ -41,12 +41,11 @@ Credits goes to Georg Muntingh, Bjorn Lindeijer for the original python 2.x 'Ima
 
 ## License
 
-Public Domain [see][license_link] 
+Public Domain [see][license_link]
 
 
 [tiled_link]: http://www.mapeditor.org/ "Tiled"
-[script_gist]: https://gist.github.com/bjorn/5498157  "Original Python 
-Scripts"
+[script_gist]: https://gist.github.com/bjorn/5498157 "Original Python Scripts"
 [license_link]: LICENSE.md "License Public Domain"
 
 
